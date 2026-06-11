@@ -219,4 +219,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For questions about the model or results, please open a GitHub issue or contact the author through Palestine Polytechnic University.
+For questions about the model or results, please open a GitHub issue or contact the author through wedadmurar@ppu.edu.
