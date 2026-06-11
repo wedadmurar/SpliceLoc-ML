@@ -12,11 +12,11 @@
 
 Non-canonical splice variants, those occurring outside the invariant ±1/±2 splice site positions are a clinically significant but computationally neglected class of genetic variants. Existing tools either focus on one genomic region only, or apply a single universal model across all variant types, which leads to canonical bias and reduced sensitivity for exonic and deep intronic variants.
 
-SpliceLoc-ML addresses this by training **three separate Random Forest models**, one per genomic location category:
+SpliceLoc-ML addresses this by training **three separate Random Forest models**, one per non-canonical genomic location category:
 
 | Category | Definition |
 |---|---|
-| Exonic | Variants within exon boundaries |
+| Exonic | Variants within exons other than canonical splice sites |
 | Near-Splice | Variants 3–20 bp from a splice site |
 | Deep Intronic | Variants > 20 bp from a splice site |
 
