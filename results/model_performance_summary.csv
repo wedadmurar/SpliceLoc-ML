@@ -1,0 +1,4 @@
+,Binary cutoff,Cutoff method,AUROC,Sensitivity,Specificity,PPV,NPV,MCC,T_benign,T_vus_lower,T_likely_path,T_pathogenic
+Exonic,0.5275,Youden_J,0.9686,0.8663,0.9657,0.9612,0.8803,0.8367,0.1,0.5275,0.9,0.99
+Near Splice (3-20 bp),0.4743,Youden_J,0.975,0.9038,0.9478,0.9418,0.9133,0.8533,0.1,0.4743,0.9,0.99
+Deep Intronic (>20 bp),0.5125,Youden_J,0.9362,0.8723,0.9533,0.83,0.9662,0.8108,0.1,0.5125,0.9,0.99
