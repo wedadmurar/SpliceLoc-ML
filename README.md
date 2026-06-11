@@ -2,7 +2,7 @@
 
 **A Location-Stratified Machine Learning Model for Non-Canonical Splice Variant Pathogenicity Prediction and Classification**
 
-![SpliceLoc-ML Study Workflow](figures/Analytical workflow.png)
+![SpliceLoc-ML Study Workflow](figures/Analytical_workflow.png)
 
 > Master's Thesis — Wedad Murar  
 > Palestine Polytechnic University, Palestine-Korea Biotechnology Center  
