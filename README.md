@@ -198,14 +198,14 @@ joblib
 
 If you use SpliceLoc-ML in your research, please cite:
 
-> Murar, W. (2025). *SpliceLoc-ML: A location-stratified machine learning model for non-canonical splice variant pathogenicity prediction and classification, with application to Long QT Syndrome* [Master's thesis]. Palestine Polytechnic University.
+> Murar, W. (2026). *SpliceLoc-ML: A location-stratified machine learning model for non-canonical splice variant pathogenicity prediction and classification, with application to Long QT Syndrome* [Master's thesis]. Palestine Polytechnic University.
 
 ```
-@mastersthesis{murar2025splicelocml,
+@mastersthesis{murar2026splicelocml,
   author  = {Murar, Wedad},
   title   = {SpliceLoc-ML: A Location-Stratified Machine Learning Model for Non-Canonical Splice Variant Pathogenicity Prediction and Classification},
   school  = {Palestine Polytechnic University},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
